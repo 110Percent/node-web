@@ -32,4 +32,4 @@
 
 **Option 2 (commandline)**
 <p>Using <a href="https://git-scm.com/">git</a>:<p>
-<p>`git clone https://github.com/bubbie/node-web.git`</p>
+`git clone https://github.com/bubbie/node-web.git`
