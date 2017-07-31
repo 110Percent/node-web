@@ -17,6 +17,7 @@
 * The ability to use serverside tags, and the ability to create your own easily with enough JS experience.
 * The ability to run serverside JavaScript on a page as if it were PHP - except it's not PHP, thank fuck!
 * The ability to blacklist any IP from accessing content on your sites.
+* The ability to log requests so that you can monitor potential malicious activity and debug issues.
 
 # Dependencies
 <p><a href="http://www.collectionsjs.com/map">collections/map</a> is required for configuration to work.</p>
