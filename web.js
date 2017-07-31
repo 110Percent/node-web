@@ -25,7 +25,7 @@ express.get("*", (i, o)=>{
         content += `<br/>Log: ${iMeta.log}`;
         content += `<br/>iMeta: CMeta.connections.get("${iMeta.id}")`;
         content += `<br/>Time: ${new Date().getTime()}`;
-        content += "<br/><br/>If you believe this is in error, email bubb1e@protonmail.ch";
+        //content += "<br/><br/>If you believe this is in error, email email@email.com";
 
         return o.status(403).send(content);
     }
