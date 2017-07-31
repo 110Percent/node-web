@@ -1,0 +1,42 @@
+{
+    "Modules"    : {
+        "RUtil"  : "./utility/require.js",
+        "logger" : "./utility/logger.js",
+        "CMeta"  : "./utility/cmeta.js",
+		"DJS"    : "./utility/dynamicjs.js"
+    },
+    "Globals"    : {
+		"fs"     : "fs",
+        "Map"    : "collections/map"
+    },
+    "Logger"     : {
+        "info"   : {
+			"prefix"        : "[INFO]",
+			"postPrefix"    : " ",
+			"prefixColor"   : 17,
+			"prefixBgColor" : 6
+		},
+		"warn"   : {
+			"prefix"        : "[WARN]",
+			"postPrefix"    : " ",
+			"prefixColor"   : 196,
+			"prefixBgColor" : 52
+		},
+        "site"   : {
+			"prefix"        : "[SITE]",
+			"postPrefix"    : " ",
+			"prefixColor"   : 202,
+			"prefixBgColor" : 214
+		}
+    },
+    "Listener"   : {
+        "port"   : 8842,
+		"static" : [".png", ".jpg", ".ico"]
+    },
+    "Sites"      : {
+		"example.site"      : "example"
+	},
+	"Blacklist"  : {
+		"256.256.256.256"   : "Blacklist reason"
+	}
+}
