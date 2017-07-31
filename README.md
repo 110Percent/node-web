@@ -21,5 +21,15 @@
 * The ability to show all files inside a directory if no `index.html` file is found.
 
 # Dependencies
+<p>This should be a no-brainer, but <a href="https://nodejs.org/en/">node.js</a> is required.</p>
 <p><a href="https://expressjs.com/">express</a> is required for the webserver to work.</p>
 <p><a href="http://www.collectionsjs.com/map">collections/map</a> is required for configuration to work.</p>
+
+# Download
+
+**Option 1**
+Click that cute green "Clone or download" button.
+
+**Option 2 (commandline)**
+Using <a href="https://git-scm.com/">git</a>:
+`git clone https://github.com/bubbie/node-web.git`
