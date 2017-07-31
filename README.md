@@ -28,8 +28,8 @@
 # Download
 
 **Option 1**
-Click that cute green "Clone or download" button.
+<p>Click that cute green "Clone or download" button.</p>
 
 **Option 2 (commandline)**
-Using <a href="https://git-scm.com/">git</a>:
-`git clone https://github.com/bubbie/node-web.git`
+<p>Using <a href="https://git-scm.com/">git</a>:<p>
+<p>`git clone https://github.com/bubbie/node-web.git`</p>
