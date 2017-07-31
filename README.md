@@ -13,7 +13,7 @@
 # Features #
 
 * The ability to easily configure stuff with a single json file.
-* The ability to run any amount of sites you want on a single port.
+* The ability to run any amount of sites you want on a single process and a single port.
 * The ability to use serverside tags, and the ability to create your own easily with enough JS experience.
 * The ability to run serverside JavaScript on a page as if it were PHP - except it's not PHP, thank fuck!
 * The ability to blacklist any IP from accessing content on your sites.
