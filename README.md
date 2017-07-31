@@ -21,4 +21,5 @@
 * The ability to show all files inside a directory if no `index.html` file is found.
 
 # Dependencies
+<p><a href="https://expressjs.com/">express</a> is required for the webserver to work.</p>
 <p><a href="http://www.collectionsjs.com/map">collections/map</a> is required for configuration to work.</p>
