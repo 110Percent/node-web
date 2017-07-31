@@ -18,6 +18,7 @@
 * The ability to run serverside JavaScript on a page as if it were PHP - except it's not PHP, thank fuck!
 * The ability to blacklist any IP from accessing content on your sites.
 * The ability to log requests so that you can monitor potential malicious activity and debug issues.
+* The ability to show all files inside a directory if no `index.html` file is found.
 
 # Dependencies
 <p><a href="http://www.collectionsjs.com/map">collections/map</a> is required for configuration to work.</p>
